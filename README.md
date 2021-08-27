@@ -1,6 +1,5 @@
 # How to create an encrypted USB using Apple's Disk Utility Software
 
----
 
 ## Choosing your storage device
 First things first and that is choosing the correct USB for your personal needs. Most flat .txt files or similar are no more than a couple of KBs in size meaning you don't need to go out and buy an expensive 128GB USB. Now that all depends on how much private data you want to store on this Apple encrypted drive so I'll let you make the choice...
