@@ -1,4 +1,4 @@
-#How to create an encrypted USB for storing important files
+How to create an encrypted USB for storing important files
 
 ---
 
